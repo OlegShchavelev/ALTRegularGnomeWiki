@@ -9,7 +9,7 @@ aggregation:
             build: unoffical
 appstream:
     id: com.brave.Browser
-    name: Brave Browser
+    name: Brave
     icon: /brave/brave-logo.svg
     summary: Веб-браузер от Brave
     metadata_license:
@@ -28,9 +28,9 @@ gallery:
         - src: /brave/brave-2.png
 ---
 
-# Brave Browser
+# Brave
 
-Brave Browser — веб-браузер с открытым исходным кодом на основе веб-браузера [Chromium](/chromium) и движке Blink.
+Brave — веб-браузер с открытым исходным кодом на основе веб-браузера [Chromium](/chromium) и движке Blink.
 
 <AGWGallery />
 
